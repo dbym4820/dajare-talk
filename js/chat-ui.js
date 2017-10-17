@@ -5,7 +5,7 @@ var ui = new BotUI('chat-app');
 ui.message.bot({
     
     //メッセージを表示する
-    content: 'こんにちは，ダジャレボットです！何か話しかけてください．'
+    content: 'こんにちは，ダジャレボットです！<br />何か話しかけてください．'
     
 }).then(function (){
     wait();

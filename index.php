@@ -9,7 +9,7 @@
   </head>
   <body>
 
-    <div style="width:500px; border:1px solid green;">
+    <div style="width:500px; border:1px solid green; height:1000px; ">
 
       <div class="botui-app-container" id="chat-app">
 
